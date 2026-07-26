@@ -11,6 +11,4 @@ By the end of this module, you will be able to:
     - Indicate the methods for creating entities and repositories
     - Identify the tools used in creating a CRUD application
 
-## Spring
-has:
-        
+    
