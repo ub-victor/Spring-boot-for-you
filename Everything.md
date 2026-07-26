@@ -12,4 +12,6 @@ By the end of this module, you will be able to:
     - Identify the tools used in creating a CRUD application
 
 ## What is Spring?
-    
+
+EJB and Enterprise Java Development was really hard since the beginning **Components** of an Entreprise Java Application were either be:
+
