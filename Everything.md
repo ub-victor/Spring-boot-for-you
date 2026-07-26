@@ -15,5 +15,5 @@ By the end of this module, you will be able to:
 
 EJB and Enterprise Java Development was really hard since the beginning **Components** of an Entreprise Java Application were either be:
 
-    - java Archive (JAR)
-    -
+    - Java Archive (JAR)
+    - 
