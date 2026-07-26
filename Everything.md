@@ -9,4 +9,4 @@ By the end of this module, you will be able to:
     - Explain the steps in creating a spring Boot Application using Spring Initializr
     - Discuss the notions of Dependency Injection and inversion of Control
     - Indicate the methods for creating entities and repositories
-    
+    - Identify the tools used in creating a CRUD application
