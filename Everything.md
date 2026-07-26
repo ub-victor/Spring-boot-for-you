@@ -17,4 +17,4 @@ EJB and Enterprise Java Development was really hard since the beginning **Compon
 
     - Java Archive (JAR)
     - Web Archive(WER)
-    - 
+    - Entreprise Archive(EAR)
