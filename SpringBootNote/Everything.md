@@ -33,3 +33,7 @@ To qualify, a POJO should have:
     - No-arg constructor
     - Serialization
     Provide getters and setters
+
+## What is Spring boot?
+
+Def: 
