@@ -31,4 +31,5 @@ Instean of Manually creating objects using the new keyword, you provide configur
 To qualify, a POJO should have:
 
     - No-arg constructor
-    - 
+    - Serialization
+    Provide getters and setters
