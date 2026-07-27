@@ -38,6 +38,7 @@ To qualify, a POJO should have:
 
 Def: is an open-source, Java-based framework used to build standalone, production-ready backend web application and microservices.
 
+## Quiz
 **Which framework provides the IOC(inversion of Control)**
     Spring core
 
@@ -47,4 +48,8 @@ Def: is an open-source, Java-based framework used to build standalone, productio
 **Spring embraces convention over configurations**
 
 **java Bean as a Spring Bean is qualifies by "annotated appropriately", "Constructed by IoC Container"**
+
+**"Spring Boot" can create and run an application with just an annotation**
+
+**"True", Spring Boot allows you to create any application as a single runnable JAR**
 
