@@ -27,3 +27,6 @@ Spring Let's you focus on your application implementation details.
 
 A bean is a standard Java object that is Instantiated , assembled, and managed entirely by Spring Inversion of Control (IoC) container
 Instean of Manually creating objects using the new keyword, you provide configuration metadata to Spring, and the Framework takes care of the object's entire lifecycle from creation to destruction
+
+To qualify, a POJO should have:
+    - 
