@@ -25,3 +25,4 @@ Spring Let's you focus on your application implementation details.
 
 ## What is a "Bean"?
 
+A bean is a standard Java object that is Instantiated , assembled, and managed entirely by Spring Inver
