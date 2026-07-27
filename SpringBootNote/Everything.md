@@ -20,4 +20,3 @@ EJB and Enterprise Java Development was really hard since the beginning **Compon
     - Entreprise Archive(EAR)
 **Containers** would be "Containing" Web contexts or Entreprise Java Beans (EJBs)
 **Services** would be security, transactional, resource pooling, Persistence and so on  **"meta-data"** need which is basically a XML file why would you bother with these after all?
-
