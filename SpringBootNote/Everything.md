@@ -36,4 +36,4 @@ To qualify, a POJO should have:
 
 ## What is Spring boot?
 
-Def: is an open-source, Java-based framework used to build standalane, 
+Def: is an open-source, Java-based framework used to build standalone, production-ready backend web application and microservices.
