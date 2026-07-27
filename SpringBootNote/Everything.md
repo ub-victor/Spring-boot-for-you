@@ -22,3 +22,5 @@ EJB and Enterprise Java Development was really hard since the beginning **Compon
 **Services** would be security, transactional, resource pooling, Persistence and so on  **"meta-data"** need which is basically a XML file why would you bother with these after all?
 
 Spring Let's you focus on your application implementation details.
+
+## What is a "Bean"?
