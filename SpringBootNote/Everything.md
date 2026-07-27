@@ -45,4 +45,6 @@ Def: is an open-source, Java-based framework used to build standalone, productio
     2002
 
 **Spring embraces convention over configurations**
-****
+
+**java Bean as a Spring Bean is qualifies by "annotated appropriately", "Constructed by IoC Container"**
+
