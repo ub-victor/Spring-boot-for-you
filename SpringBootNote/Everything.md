@@ -24,3 +24,4 @@ EJB and Enterprise Java Development was really hard since the beginning **Compon
 Spring Let's you focus on your application implementation details.
 
 ## What is a "Bean"?
+
