@@ -38,3 +38,4 @@ To qualify, a POJO should have:
 
 Def: is an open-source, Java-based framework used to build standalone, production-ready backend web application and microservices.
 
+**Which framework provides the IOC(inversion of Control)**
